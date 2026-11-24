@@ -1,6 +1,6 @@
 # Actividad: Índices y restricciones en Oracle
 
-**Estudiante:** Juan Diego Zambrano Guerrero (223179011)
+**Estudiante:** Juan Diego Zambrano Guerrero
 **Asignatura:** Bases de Datos Avanzadas – UNIR
 
 Trabajo con los índices y restricciones del esquema **HR** en Oracle Database
